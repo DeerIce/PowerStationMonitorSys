@@ -182,7 +182,7 @@ color: rgb(237, 255, 255);
 font: 75 16pt &quot;Candara&quot;;</string>
          </property>
          <property name="text">
-          <string>Engine1</string>
+          <string>Generator1</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignCenter</set>
@@ -197,7 +197,7 @@ color: rgb(237, 255, 255);
 font: 75 16pt &quot;Candara&quot;;</string>
          </property>
          <property name="text">
-          <string>Engine2</string>
+          <string>Generator2</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignCenter</set>

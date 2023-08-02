@@ -224,8 +224,8 @@ public:
         Stable->setText(QCoreApplication::translate("client", "Stable", nullptr));
         CriStable->setText(QCoreApplication::translate("client", "CriStable", nullptr));
         UnStable->setText(QCoreApplication::translate("client", "UnStable", nullptr));
-        Engine1_label->setText(QCoreApplication::translate("client", "Engine1", nullptr));
-        Engine2_label->setText(QCoreApplication::translate("client", "Engine2", nullptr));
+        Engine1_label->setText(QCoreApplication::translate("client", "Generator1", nullptr));
+        Engine2_label->setText(QCoreApplication::translate("client", "Generator2", nullptr));
         Alarm->setText(QCoreApplication::translate("client", "Alarm", nullptr));
     } // retranslateUi
 

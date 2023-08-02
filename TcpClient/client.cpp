@@ -27,6 +27,7 @@ client::client(QWidget *parent)
     setUi();
     Connect();
     initPlot();
+
 }
 
 client::~client()
